@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/SumoLogic/terraform-provider-sumologic.svg?branch=master)](https://travis-ci.org/sumologic/sumologic-terraform-provider) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/sumologic/sumologic-terraform-provider/issues)
+[![Build Status](https://travis-ci.org/SumoLogic/terraform-provider-sumologic.svg?branch=master)](https://travis-ci.org/sumologic/terraform-provider-sumologic) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/sumologic/terraform-provider-sumologic/issues)
 
 # terraform-provider-sumologic
 This provider is used to manage multiple configuration entities within the Sumo Logic product.
